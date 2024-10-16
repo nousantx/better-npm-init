@@ -4,16 +4,16 @@
   "description": "Create better structure of package.json",
   "author": "NOuSantx <nousantx@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/nousantx/better-npm-starter#readme",
+  "homepage": "https://github.com/nousantx/better-npm-init#readme",
   "keywords": [
     "keywords"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nousantx/better-npm-starter.git"
+    "url": "git+https://github.com/nousantx/better-npm-init.git"
   },
   "bugs": {
-    "url": "https://github.com/nousantx/better-npm-starter/issues"
+    "url": "https://github.com/nousantx/better-npm-init/issues"
   },
   "files": [
     "dist",
